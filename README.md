@@ -3,7 +3,7 @@ Python Workbook For Beginners
 
 In general, we will explain the steps of our artificial intelligence journey gradually with examples.
 
-* Chapter 1: Python Basics
+* <a href='https://github.com/ddarkk0/python-workbook/blob/master/Python_Basics.ipynb'> Chapter 1: Python Basics </a>
 * Chapter 2: Object Oriented Programming (OOP)
 * Chapter 3: Data Science and Python
 * Chapter 4: Data Visualization
